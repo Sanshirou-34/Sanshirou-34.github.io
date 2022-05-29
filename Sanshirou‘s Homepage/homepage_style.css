@@ -50,6 +50,12 @@ html,body{
     margin-right: 4rem;
 }
 
+.socialconnect{
+    //background-color: red;
+    position: fixed;
+    right:8%;
+}
+
 .socialconnect a{
     font-size: 1.2rem;
     box-sizing: border-box;
